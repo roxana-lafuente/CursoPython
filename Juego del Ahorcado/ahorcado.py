@@ -46,7 +46,6 @@ def mostrar_vidas():
     Muestra la cantidad de vidas que le quedan en el juego.
     :return: None
     """
-    # Caracteres útiles: 💔\n❤️
     cantidad_vidas = INTENTOS_MAXIMOS - intentos_realizados
     if cantidad_vidas == 0:
         print("No te quedan vidas 💔\n")
