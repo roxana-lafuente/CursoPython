@@ -22,4 +22,4 @@ En nuestro canal de YouTube [@CodeXpertAcademy](https://www.youtube.com/channel/
 
 ### Pagos
 
-Nuestros cursos te transforman en un programador en la vida real: [video tutorial aquí](https://codexpert.byteit.pro/).
+Nuestros cursos te transforman en un programador en la vida real: [mira nuestra oferta de cursos aquí](https://codexpert.byteit.pro/).
